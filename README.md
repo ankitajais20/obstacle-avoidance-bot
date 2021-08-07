@@ -1,3 +1,6 @@
+![Wire connections on the breadboard](https://user-images.githubusercontent.com/88271490/128607489-3c05032b-423f-4ae5-a537-b17f09abd384.jpg)
+![circuit diagram](https://user-images.githubusercontent.com/88271490/128607491-14abc764-c7a0-4651-a813-a1abeb8478b1.jpg)
+![Obstacle Avoidance Robot](https://user-images.githubusercontent.com/88271490/128607492-d3522d36-2e7a-453a-9d04-82c24c03b429.jpg)
 # obstacle-avoidance-bot
  This is an Obstacle Avoiding Robot using Reinforcement Learning/AI.
  Algorithm used in this project: Q learning 
